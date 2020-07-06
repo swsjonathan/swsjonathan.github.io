@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# $whoami
+
+
 # Work Experience
 
 **Meta Defence Labs \- Trainee Security Consultant** <br>
@@ -21,7 +24,7 @@ October 2018
 # Volunteering Experience 
 
 **Student Member \- IEEE Sri Lanka Section** <br>
-May 2019 -\ Present <br>
+May 2019 \- Present <br>
 - Student Ambassador for IEEE Xtreme 14.0 Competition
 - Attended IEEE SLSTYWC'2019 
 
@@ -35,16 +38,16 @@ April 2020 \- May 2020 <br>
 
 **Disrupt Asia 2019, Colombo** <br>
 October 2019 <br>
-Volunteered to manage the event "Disrupt Asia 2019"
+- Volunteered to manage the event "Disrupt Asia 2019"
 
 **Spark Exhibition, Royal College** <br> 
 September 2018 <br>
-Represented Microsoft Srilanka and conducted Hour of Code sessions for the exhibition participants. 
+- Represented Microsoft Srilanka and conducted Hour of Code sessions for the exhibition participants. 
 
 
 # Gallery 
 ![NIBM Capture the Flag 2019](/assets/img/nibm.jpg)
-![[NIBM Capture the Flag 2019](/assets/img/nibm_ctf_winners.jpg)
+![NIBM Capture the Flag 2019](/assets/img/nibm_ctf_winners.jpg)
 ![Google Devfest 2019](/assets/img/gdg_devfest_2019.jpeg)
 ![Mini Hackathon 2019](/assets/img/mini_hackathon_2019.jpg)
 ![Disrupt Asia 2019](/assets/img/disrupt_asia_2019.jpg)
