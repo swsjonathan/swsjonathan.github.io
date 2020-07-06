@@ -4,12 +4,10 @@ layout: default
 
 # Experience
 
-#### Trainee Security Consultant
-**Meta Defence Labs** <br>
+**Meta Defence Labs \- Trainee Security Consultant** <br>
 APRIL 2020 \- PRESENT
 
-#### Information Security Engineer Intern
-**Simcentric Technologies, Orion City IT Park** <br>
+**Simcentric Technologies, Orion City IT Park \- Information Security Engineer Intern** <br>
 OCT 2019 \- APRIL 2020
 
 
