@@ -5,21 +5,32 @@ layout: default
 # Experience
 
 **Meta Defence Labs \- Trainee Security Consultant** <br>
-APRIL 2020 \- PRESENT
+April 2020 \- Present
 
 **Simcentric Technologies, Orion City IT Park \- Information Security Engineer Intern** <br>
-OCT 2019 \- APRIL 2020
-
+October 2019 \- April 2020
 
 # Education
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**SLIIT, Malabe \- B.Sc. (Hons) in Information Technology Specializing in Cyber Security** <br>
+September 2017 \- Present <br>
+2nd Year CGPA - **3.76**
 
 # Volunteering
+**Spark Exhibition, Royal College** <br> 
+September 2018 <br>
+Represented Microsoft Srilanka and conducted Hour of Code sessions for the exhibition participants. 
+
+**Code in Place, offered online by Stanford University** <br>
+April 2020 \- May 2020 <br>
+- Part of a teaching team for Code in Place, offered by Stanford during COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. 
+- Prepared and taught a weekly discussion section of 10-12 students to supplement professors’ lectures in a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
 
 # Gallery 
+![Gallery Image 1](/assets/img/gallery_1.jpg)
+![Gallery Image 2](/assets/img/gallery_2.jpg)
+![Gallery Image 3](/assets/img/gallery_3.jpg)
+![Gallery Image 4](/assets/img/gallery_4.jpg)
+![Gallery Image 5](/assets/img/gallery_5.jpg)
 
 ```js
 // Javascript code with syntax highlighting.
