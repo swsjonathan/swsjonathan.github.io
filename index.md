@@ -4,7 +4,14 @@ layout: default
 
 # Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+##### Trainee Security Consultant
+*Meta Defence Labs*
+APRIL 2020 \- PRESENT
+
+##### Information Security Engineer Intern
+*Simcentric Technologies, Orion City IT Park*
+OCT 2019 \- APRIL 2020
+
 
 # Education
 
