@@ -7,7 +7,14 @@ a,h1,h2,h3 {
     color: #8B008B;
 }
 
-.profile-photo {
+img.profile-photo {
     border-radius: 50%;
+    max-width: 70%;
     
 }
+
+@media only screen and (max-width: 600px) {
+    img.profile-photo {
+        max-width: 50%;
+        }
+  }
