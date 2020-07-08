@@ -4,44 +4,72 @@ layout: default
 
 # $whoami
 
-
+I test for security vulnerabilities in open-source projects and play Capture-the-Flag(CTF) events in my free time. 
 # Work Experience
 
 **Meta Defence Labs \- Trainee Security Consultant** <br>
-April 2020 \- Present
+*April 2020 \- Present*
 
 **Simcentric Technologies, Orion City IT Park \- Information Security Engineer Intern** <br>
-October 2019 \- April 2020
+*October 2019 \- April 2020*
 
 # Education
 **SLIIT, Malabe \- B.Sc. (Hons) in Information Technology Specializing in Cyber Security** <br>
-September 2017 \- Present <br>
+*September 2017 \- Present* <br>
 2nd Year CGPA - **3.76**
 
 **ESOFT Metro Campus, Colombo \- - Diploma in Multimedia** <br>
-October 2018
+*October 2018*
+
+# SKILLS 
+
+## Expertise:
+- Web/Mobile/Network Penetration Testing
+
+
+## Programming Languages: 
+- Python
+- Bash
+- C 
+- Javascript
+- PHP
+
+## Technologies:
+- git
+- docker
+- mysql
+- azure
+
+# Projects 
+
+## cryptoPy 
+> 🟢 In  progress
+
+A personal project of mine to learn cryptography by implementing a series of algorithms in python. <br>
+![cryptoPy Github Repo](https://github.com/swsjonathan/cryptopy)
+
 
 # Volunteering Experience 
 
 **Student Member \- IEEE Sri Lanka Section** <br>
-May 2019 \- Present <br>
+*May 2019 \- Present* <br>
 - Student Ambassador for IEEE Xtreme 14.0 Competition
 - Attended IEEE SLSTYWC'2019 
 
 **Student Ambassador at [Sustainable Education Foundation](https://sefglobal.org/)** <br>
-November 2019 \- Present 
+*November 2019 \- Present ***
 
 **Code in Place, offered online by Stanford University** <br>
-April 2020 \- May 2020 <br>
+*April 2020 \- May 2020* <br>
 - Part of a teaching team for Code in Place, offered by Stanford during COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. 
 - Prepared and taught a weekly discussion section of 10-12 students to supplement professors’ lectures in a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
 
 **Disrupt Asia 2019, Colombo** <br>
-October 2019 <br>
+*October 2019* <br>
 - Volunteered to manage the event "Disrupt Asia 2019"
 
 **Spark Exhibition, Royal College** <br> 
-September 2018 <br>
+*September 2018* <br>
 - Represented Microsoft Srilanka and conducted Hour of Code sessions for the exhibition participants. 
 
 
