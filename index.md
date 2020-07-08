@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# $whoami
+# $ whoami
 
-I test for security vulnerabilities in open-source projects and play Capture-the-Flag(CTF) events in my free time. 
+A 3rd Year Cybersecurity Student at SLIIT, Malabe. Passionate on learning new technolgies and finding ways to break them 😉
+I test open-source projects for security vulnerabilities and play Capture-the-Flag(CTF) events in my free time. 
 # Work Experience
 
 **Meta Defence Labs \- Trainee Security Consultant** <br>
@@ -23,9 +24,10 @@ I test for security vulnerabilities in open-source projects and play Capture-the
 
 # SKILLS 
 
-## Expertise:
+## Intrests:
 - Web/Mobile/Network Penetration Testing
-
+- IoT Security
+- Vulnerability Assesment
 
 ## Programming Languages: 
 - Python
@@ -39,13 +41,16 @@ I test for security vulnerabilities in open-source projects and play Capture-the
 - docker
 - mysql
 - azure
+- graylog
+- nessus
+- wireshark
 
 # Projects 
 
 ## cryptoPy 
-> 🟢 In  progress
+🟢 In  progress
 
-A personal project of mine to learn cryptography by implementing a series of algorithms in python. <br>
+A personal project to learn cryptography by implementing a series of cryptographic algorithms in python. <br>
 ![cryptoPy Github Repo](https://github.com/swsjonathan/cryptopy)
 
 
@@ -57,7 +62,7 @@ A personal project of mine to learn cryptography by implementing a series of alg
 - Attended IEEE SLSTYWC'2019 
 
 **Student Ambassador at [Sustainable Education Foundation](https://sefglobal.org/)** <br>
-*November 2019 \- Present ***
+*November 2019 \- Present*
 
 **Code in Place, offered online by Stanford University** <br>
 *April 2020 \- May 2020* <br>
