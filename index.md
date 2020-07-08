@@ -4,8 +4,8 @@ layout: default
 
 # $ whoami
 
-A 3rd Year Cybersecurity Student at SLIIT, Malabe. Passionate on learning new technolgies and finding ways to break them 😉
-I test open-source projects for security vulnerabilities and play Capture-the-Flag(CTF) events in my free time. 
+A 3rd Year Cybersecurity Student at SLIIT, Malabe. Passionate about learning new technolgies and finding ways to break them 😉
+I test open-source projects for security vulnerabilities and play Capture-the-Flag(CTF) in my free time. 
 # Work Experience
 
 **Meta Defence Labs \- Trainee Security Consultant** <br>
@@ -24,10 +24,10 @@ I test open-source projects for security vulnerabilities and play Capture-the-Fl
 
 # SKILLS 
 
-## Intrests:
+## Interests:
 - Web/Mobile/Network Penetration Testing
 - IoT Security
-- Vulnerability Assesment
+- Vulnerability Assesments
 
 ## Programming Languages: 
 - Python
@@ -37,13 +37,13 @@ I test open-source projects for security vulnerabilities and play Capture-the-Fl
 - PHP
 
 ## Technologies:
-- git
-- docker
-- mysql
-- azure
-- graylog
-- nessus
-- wireshark
+- Git
+- Docker
+- MySQL
+- Azure
+- Graylog
+- Nessus
+- Wireshark
 
 # Projects 
 
@@ -51,7 +51,7 @@ I test open-source projects for security vulnerabilities and play Capture-the-Fl
 🟢 In  progress
 
 A personal project to learn cryptography by implementing a series of cryptographic algorithms in python. <br>
-![cryptoPy Github Repo](https://github.com/swsjonathan/cryptopy)
+![View Project](https://github.com/swsjonathan/cryptopy)
 
 
 # Volunteering Experience 
