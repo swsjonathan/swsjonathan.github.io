@@ -51,7 +51,7 @@ I test open-source projects for security vulnerabilities and play Capture-the-Fl
 🟢 In  progress
 
 A personal project to learn cryptography by implementing a series of cryptographic algorithms in python. <br>
-![View Project](https://github.com/swsjonathan/cryptopy)
+[View Project](https://github.com/swsjonathan/cryptopy)
 
 
 # Volunteering Experience 
